@@ -1,6 +1,16 @@
 @import "./fonts";
 @import "./variables";
-@import "./modules/navbar.scss";
+@import "./modules/_navbar.scss";
+@import "./modules/partie1";
+
+
+
+
+
+
+
+
+
 
 $fa-font-path : "../../node_modules/@fortawesome/fontawesome-free/webfonts";
 @import "../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
