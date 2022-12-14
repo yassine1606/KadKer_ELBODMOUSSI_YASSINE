@@ -21,6 +21,7 @@ $couleur-perso : (
     "rose"   : #df46c8,
     "colNav" : rgba(30,25,22,255),
     "cJaune" : #e8a536,
-);
+    "cFoot"  : #1e1916,
+); 
 
 $theme-colors : map-merge($theme-colors , $couleur-perso);
