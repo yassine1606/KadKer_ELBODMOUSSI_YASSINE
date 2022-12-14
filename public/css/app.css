@@ -5,6 +5,22 @@
 
 #t1Car {
   margin-bottom: 25%;
+  margin-right: 25%;
+}
+
+#bt1 {
+  height: 7vh;
+  width: 10vw;
+  display: inline-table;
+  color: white;
+  min-height: 20px;
+  background-color: rgb(234, 166, 54);
+  border-radius: 20px;
+  border: none;
+}
+
+.t1v2 {
+  font-size: 8vh;
 }
 
 /*!
