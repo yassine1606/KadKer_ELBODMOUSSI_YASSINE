@@ -23,6 +23,29 @@
   font-size: 8vh;
 }
 
+#sp2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#s2 {
+  margin-top: 10%;
+  border: 2px solid rgb(255, 193, 7);
+  height: 25vh;
+}
+
+.div2v2 {
+  height: 10vh;
+  width: 15vw;
+  margin: 4%;
+  background-color: rgb(234, 166, 54);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /*!
  * Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
