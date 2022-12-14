@@ -101,8 +101,7 @@
 #s5 {
   padding-top: 10%;
   width: 100vw;
-  height: 80vh;
-  background-color: brown;
+  height: 130vh;
 }
 
 #divs5 {
@@ -113,6 +112,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
+  padding-bottom: 5%;
 }
 
 #sDivs5 {
@@ -124,6 +124,7 @@
   color: white;
   align-items: center;
   margin-left: 2%;
+  margin-bottom: 5%;
 }
 
 /*
@@ -139,7 +140,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 55vh;
+  height: 52vh;
   width: 20vw;
   background-color: white;
 }
@@ -151,6 +152,7 @@
 .p1 {
   border: 1px solid rgb(238, 182, 90);
   border-radius: 50px;
+  margin-top: 3%;
 }
 
 /*!
