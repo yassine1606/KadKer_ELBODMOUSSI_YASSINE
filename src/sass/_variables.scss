@@ -19,6 +19,7 @@ $spacers : map-merge($spacers, (
 $couleur-perso : (
     "orange" : rgb(207, 130, 22),
     "rose"   : #df46c8,
+    "colNav" : rgba(30,25,22,255),
 );
 
 $theme-colors : map-merge($theme-colors , $couleur-perso);
