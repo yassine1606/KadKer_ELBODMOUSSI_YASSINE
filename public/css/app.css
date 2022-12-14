@@ -48,6 +48,38 @@
   justify-content: center;
 }
 
+#s3 {
+  height: 20vh;
+  width: 100vw;
+  padding-top: 10%;
+}
+
+#d3v3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div3v3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(253, 245, 235);
+  height: 25vh;
+  width: 20vw;
+  margin-left: 2%;
+}
+
+#i2 {
+  font-size: 50px;
+  margin-left: 30%;
+  margin-bottom: 10%;
+}
+
+#i3 {
+  margin-left: 45%;
+}
+
 /*!
  * Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
