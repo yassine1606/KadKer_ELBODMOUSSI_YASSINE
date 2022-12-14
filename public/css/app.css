@@ -186,6 +186,28 @@
   border-radius: 50%;
 }
 
+#ddd1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#ddd2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sppp3 {
+  background-color: rgb(253, 245, 235);
+  height: 10vh;
+}
+
+#s7 {
+  padding-bottom: 20%;
+}
+
 /*!
  * Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
