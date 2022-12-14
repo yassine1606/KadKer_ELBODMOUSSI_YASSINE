@@ -1,0 +1,48 @@
+#s5{
+    padding-top: 10%;
+    width: 100vw;
+    height: 80vh;
+    background-color: brown;
+}
+#divs5{
+    align-items: center;
+    width: 80vw;
+    background-color: rgba(253,245,235,255);
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#sDivs5{
+    width: 77vw;
+    height: 20vh;
+    background-color: rgba(234,166,54,255);
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+    margin-left: 2%;
+}
+/*
+
+*/
+#ii3{
+    font-size: 40px;
+    margin-left: 40vw;
+}
+#divF{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 55vh;
+    width: 20vw;
+    background-color: white;
+}
+#dGen{
+    display: flex;
+}
+.p1{
+    border: 1px solid rgba(238,182,90,255);
+    border-radius: 50px;
+}
