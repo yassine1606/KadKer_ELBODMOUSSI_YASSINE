@@ -33,7 +33,11 @@
     color: red;
     background-color: red;
 }
-
+#all11{
+    background-color: rgba(253,245,235,255);
+    width: 90vw;
+    margin: auto;
+}
 .div3v3:hover {
     background-color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -72,6 +76,22 @@
     width: 80vw;
     margin-left: 10%;
 }
+#carouselExampleControls{
+    padding:5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*---------------------------*/
 
@@ -99,5 +119,8 @@
         display: block;
         margin-left: 40%;
         width: 34.5vw;
+    }
+    #bt1{
+        height: 10vh;
     }
   }
