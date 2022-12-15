@@ -1,16 +1,27 @@
 #s8{
     width: 100Vw;
     height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #d22v2{
     display: flex;
-    height: 40vh;
-    width: 80vw;
+    align-items: center;
+    height: 20vh;
+    width: 80;
 }
 
 
 #d22v1{
     background-color: rgba(234,166,54,255);
-    height: 10vh;
+    height:25vh;
     width: 60vw;
+    color: white;
+}
+#btt2{
+    border: 0;
+}
+#dInp{
+    margin-left: 40%;
 }
