@@ -35,3 +35,10 @@
     transform: translateY(-5%);
     transition: 1s;
 }
+#divF:hover{
+    background-color: rgba(234,166,54,255);
+
+}
+#divF:hover img{
+  filter: brightness(50%);
+}
