@@ -72,3 +72,32 @@
     width: 80vw;
     margin-left: 10%;
 }
+
+/*---------------------------*/
+
+@media only screen and (max-width: 768px) {
+    header{
+        width: 118vw;
+    }
+    main{
+        width: 118vw;
+    }
+    #s2{
+        margin-left: 15%;
+    }
+    #s3{
+        margin-left: 6.5%;
+    }
+    #s5{
+        margin-left: 10%;
+    }
+    #ddi2{
+        margin: auto;
+        margin-left: 1%;
+    }
+    #ddd2{
+        display: block;
+        margin-left: 40%;
+        width: 34.5vw;
+    }
+  }
