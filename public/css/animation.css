@@ -97,7 +97,7 @@
 
 
 
-/*---------------------------*/
+/*----------Tablette-----------------*/
 
 @media only screen and (max-width: 768px) {
     header {
@@ -135,6 +135,7 @@
         height: 10vh;
     }
 }
+/* Mobile m ------------------*/
 @media only screen and (max-width: 375px) {
     header{
         width: 171.5vw;
@@ -183,5 +184,68 @@
     }
     #all11{
         width: 120vw;
+    }
+}
+/* Mobile L ------------------*/
+@media only screen and (max-width: 425px) {
+    header{
+        width: 171.5vw;
+    }
+    main{
+        width: 171.5vw;
+      
+    }
+    #s2{
+        width: 140vw;
+        margin: auto;
+
+    }
+    #sp2{
+
+    }
+    .div2v2{
+        width: 40vw;
+    }
+    #d3v3{
+        width: 150vw;
+  
+    }
+    .div3v3{
+        width: 150px;
+    }
+    #dAbs{
+        margin-left: 56%;
+        width: 50vw;
+    }
+    #divs5{
+        width: 120vw;
+    }
+    #sDivs5{
+        width: 100vw;
+    }
+    #divF{
+        width: 35vw;
+    }
+   
+    #ddi1 img {
+        width: 40vw;
+        height: 40vh;
+    }
+    #ddi2 img {
+        width: 40vw;
+        height: 40vh;
+    }
+    #dAbs1{
+        margin-left: 30%;
+    }
+    #all11{
+        width: 120vw;
+    }
+    #ddd2{
+        margin:auto;
+    }
+    #dInp{
+        width: 40vw;
+        margin-left: 70%;
     }
 }
