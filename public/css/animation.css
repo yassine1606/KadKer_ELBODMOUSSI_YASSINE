@@ -1,5 +1,4 @@
 #s8 {
-    width: 100Vw;
     height: 40vh;
     display: flex;
     justify-content: center;
@@ -17,7 +16,7 @@
 #d22v1 {
     background-color: rgba(234, 166, 54, 255);
     height: 25vh;
-    width: 80vw;
+    width: 60vw;
     color: white;
     margin-right: 10%;
 }
@@ -276,4 +275,49 @@
         width: 40vw;
         margin-left: 70%;
     }
+}
+@media only screen and (max-width: 1440px) {
+    body{
+    overflow-x:hidden;
+}
+}
+#hd1{
+    height: 40vh;
+    background-color: gray;
+    color: white;
+}
+#dCon{
+    margin-top: 5%;
+    flex-direction: column;
+}
+#ss1{
+    padding-top: 10vh;
+}
+#inpp1{
+    margin-top: 1%;
+    width: 27vw;
+}
+#inpp2{
+    height: 25vh;
+    margin-top: 1%;
+    width: 27vw;
+}
+#btt2{
+    margin-top: 1%;
+    height: 7vh;
+    width: 10vw;
+    display: inline-table;
+    color: white;
+    min-height: 20px;
+    background-color: rgb(234, 166, 54);
+    border-radius: 20px;
+    border: none;
+}
+#smap{
+    padding-top: 10vh;
+    
+}
+#map{
+    width: 60vw;
+    padding-bottom: 10vh;
 }
