@@ -33,11 +33,13 @@
     color: red;
     background-color: red;
 }
-#all11{
-    background-color: rgba(253,245,235,255);
+
+#all11 {
+    background-color: rgba(253, 245, 235, 255);
     width: 90vw;
     margin: auto;
 }
+
 .div3v3:hover {
     background-color: white;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -56,10 +58,10 @@
 
 
 
-#dddv2{
+#dddv2 {
     overflow: hidden;
     position: relative;
-    height: 70px ;
+    height: 70px;
 }
 
 #dvd1 {
@@ -72,12 +74,14 @@
 #dddv2:hover #dvd1 {
     top: -120%;
 }
-#carouselExampleControls{
+
+#carouselExampleControls {
     width: 80vw;
     margin-left: 10%;
 }
-#carouselExampleControls{
-    padding:5%;
+
+#carouselExampleControls {
+    padding: 5%;
 }
 
 
@@ -96,31 +100,65 @@
 /*---------------------------*/
 
 @media only screen and (max-width: 768px) {
-    header{
+    header {
         width: 118vw;
     }
-    main{
+
+    main {
         width: 118vw;
     }
-    #s2{
+
+    #s2 {
         margin-left: 15%;
     }
-    #s3{
+
+    #s3 {
         margin-left: 6.5%;
     }
-    #s5{
+
+    #s5 {
         margin-left: 10%;
     }
-    #ddi2{
+
+    #ddi2 {
         margin: auto;
         margin-left: 1%;
     }
-    #ddd2{
+
+    #ddd2 {
         display: block;
         margin-left: 40%;
         width: 34.5vw;
     }
-    #bt1{
+
+    #bt1 {
         height: 10vh;
     }
-  }
+}
+@media only screen and (max-width: 375px) {
+    header{
+        width: 171.5vw;
+    }
+    main{
+        width: 171.5vw;
+    }
+    #s2{
+        width: 140vw;
+        
+    }
+    .div2v2{
+        width: 40vw;
+    }
+    #d3v3{
+        width: 150vw;
+  
+    }
+    .div3v3{
+        width: 150px;
+    }
+    #dAbs{
+        margin-left: 56%;
+        width: 50vw;
+    }
+    
+}
