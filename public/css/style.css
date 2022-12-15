@@ -25,3 +25,13 @@
 #dInp{
     margin-left: 40%;
 }
+.nav-link:hover{
+    color: red;
+    background-color: red;
+}
+.div3v3:hover{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transform: translateY(-5%);
+    transition: 1s;
+}
