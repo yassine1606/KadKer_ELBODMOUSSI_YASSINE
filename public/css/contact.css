@@ -4,6 +4,14 @@ footer{
     
 }
 #inpp2{
-    
+    width: 80vw;
+}
+#btt2{
+    margin-top: 5vh;
+    height: 5vh;
+    width: 25vw;
+}
+#map{
+    width: 120vw;
 }
 }
