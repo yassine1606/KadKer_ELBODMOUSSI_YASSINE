@@ -354,3 +354,7 @@
     padding-bottom: 5%;
     margin-left: 20%;
 }
+.btn:hover{
+    color: orange;
+    
+}
