@@ -283,14 +283,16 @@
     }
 
     #dInp {
-        width: 40vw;
-        margin-left: 70%;
+        opacity: 0;
     }
 }
 
 @media only screen and (max-width: 1440px) {
     body {
         overflow-x: hidden;
+    }
+    #dAbs1{
+        opacity: 0;
     }
 }
 
@@ -405,4 +407,19 @@
 
 .txtt4 {
     margin-left: 160%;
+}
+@media only screen and (max-width: 1024px) {
+    #carouselMaterialStyle{
+        width: 103.7vw;
+    }
+
+    .navbar{
+        width: 103.7vw;
+    }
+    footer{
+        width: 103.7vw;
+    }
+    #btt2{
+        height: 60px;
+    }
 }
