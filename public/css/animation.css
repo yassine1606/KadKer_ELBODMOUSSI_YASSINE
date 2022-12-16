@@ -336,4 +336,16 @@
 
 #s2{
     border: 0;
+    padding-bottom: 30%;
+}
+#Margin1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(234,166,54,255);
+    height: 8vh;
+    border-radius: 10%;
+    color: white;
+    margin-left: 10%;
+    width: 7vw;
 }
