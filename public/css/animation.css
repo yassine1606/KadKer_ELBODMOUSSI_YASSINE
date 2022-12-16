@@ -26,8 +26,8 @@
 }
 
 .nav-link:hover {
-   text-decoration: none;
-   color: orange;
+    text-decoration: none;
+    color: orange;
 }
 
 #all11 {
@@ -80,7 +80,7 @@
     padding: 5%;
 }
 
-.test1:hover{
+.test1:hover {
     color: orange;
 }
 
@@ -144,13 +144,14 @@
     main {
         width: 171.5vw;
     }
-    
-   body{
-    margin: 0;
-   }
-#s2{
-    height: 60vh;
-}
+
+    body {
+        margin: 0;
+    }
+
+    #s2 {
+        height: 60vh;
+    }
 
     .div2v2 {
         width: 40vw;
@@ -332,62 +333,67 @@
     padding-bottom: 10vh;
 }
 
-/*---------------------------------------------------------------------------------*/
-
-
-
-#s2{
+/*-----------------Derniere section ----------------------------------------------------------------*/
+#s2 {
     border: 0;
     padding-bottom: 30%;
 }
-#Margin1{
+
+#Margin1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(234,166,54,255);
+    background-color: rgba(234, 166, 54, 255);
     height: 8vh;
     border-radius: 10%;
     color: white;
     margin-left: 2vw;
     width: 7vw;
-    margin-top: 30% ;
+    margin-top: 30%;
 }
-#touts2{
-    border: 3px solid rgba(234,166,54,255);
+
+#touts2 {
+    border: 3px solid rgba(234, 166, 54, 255);
     width: 40vw;
     padding-bottom: 5%;
     margin-left: 20%;
 }
-  
-#fout{
+
+#fout {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-.btn{
+
+.btn {
     text-decoration: none;
 }
 
-.test{
-    
+.test {
+
     transition: 0.2s;
 }
-.test:hover{
+
+.test:hover {
     color: orange;
     font-size: 1.1em;
 }
-.txtt1{
+
+.txtt1 {
     margin-right: 20%;
-    
+
 }
-.txtt2{
+
+.txtt2 {
     margin-left: 50%;
 }
-.txtt3{
+
+.txtt3 {
     margin-left: 110%;
-    
+
 }
-.txtt4{
+
+.txtt4 {
     margin-left: 160%;
 }
