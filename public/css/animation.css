@@ -138,21 +138,21 @@
 /* Mobile m ------------------*/
 @media only screen and (max-width: 375px) {
     header {
-        width: 171.5vw;
+        width: 171px;
+        
     }
 
     main {
         width: 171.5vw;
     }
 
-    body {
-        margin: 0;
-    }
+    
 
     #s2 {
         height: 60vh;
+        
     }
-
+    
     .div2v2 {
         width: 40vw;
     }
@@ -199,6 +199,9 @@
 
     #all11 {
         width: 120vw;
+    }
+    footer{
+        width: 170vw;
     }
 }
 
