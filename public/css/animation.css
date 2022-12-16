@@ -12,7 +12,6 @@
     width: 80;
 }
 
-
 #d22v1 {
     background-color: rgba(234, 166, 54, 255);
     height: 25vh;
@@ -87,6 +86,119 @@
 
 
 
+
+#hd1 {
+    height: 40vh;
+    background-color: gray;
+    color: white;
+}
+
+#dCon {
+    margin-top: 5%;
+    flex-direction: column;
+}
+
+#ss1 {
+    padding-top: 10vh;
+}
+
+#inpp1 {
+    margin-top: 1%;
+    width: 27vw;
+}
+
+#inpp2 {
+    height: 25vh;
+    margin-top: 1%;
+    width: 27vw;
+}
+
+#btt2 {
+    margin-top: 1%;
+    height: 4vh;
+    width: 5vw;
+    display: inline-table;
+    color: white;
+    min-height: 20px;
+    background-color: rgb(234, 166, 54);
+    border-radius: 20px;
+    border: none;
+}
+
+#smap {
+    padding-top: 10vh;
+
+}
+
+#map {
+    width: 60vw;
+    padding-bottom: 10vh;
+}
+
+/*-----------------Derniere section ----------------------------------------------------------------*/
+#s2 {
+    border: 0;
+    padding-bottom: 30%;
+}
+
+#Margin1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(234, 166, 54, 255);
+    height: 8vh;
+    border-radius: 10%;
+    color: white;
+    margin-left: 2vw;
+    width: 7vw;
+    margin-top: 30%;
+}
+
+#touts2 {
+    border: 3px solid rgba(234, 166, 54, 255);
+    width: 40vw;
+    padding-bottom: 5%;
+    margin-left: 20%;
+}
+
+#fout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    text-decoration: none;
+}
+
+.test {
+
+    transition: 0.2s;
+}
+
+.test:hover {
+    color: orange;
+    font-size: 1.1em;
+}
+
+.txtt1 {
+    margin-right: 20%;
+
+}
+
+.txtt2 {
+    margin-left: 50%;
+}
+
+.txtt3 {
+    margin-left: 110%;
+
+}
+
+.txtt4 {
+    margin-left: 160%;
+}
 
 
 
@@ -294,119 +406,6 @@
     #dAbs1{
         opacity: 0;
     }
-}
-
-#hd1 {
-    height: 40vh;
-    background-color: gray;
-    color: white;
-}
-
-#dCon {
-    margin-top: 5%;
-    flex-direction: column;
-}
-
-#ss1 {
-    padding-top: 10vh;
-}
-
-#inpp1 {
-    margin-top: 1%;
-    width: 27vw;
-}
-
-#inpp2 {
-    height: 25vh;
-    margin-top: 1%;
-    width: 27vw;
-}
-
-#btt2 {
-    margin-top: 1%;
-    height: 4vh;
-    width: 5vw;
-    display: inline-table;
-    color: white;
-    min-height: 20px;
-    background-color: rgb(234, 166, 54);
-    border-radius: 20px;
-    border: none;
-}
-
-#smap {
-    padding-top: 10vh;
-
-}
-
-#map {
-    width: 60vw;
-    padding-bottom: 10vh;
-}
-
-/*-----------------Derniere section ----------------------------------------------------------------*/
-#s2 {
-    border: 0;
-    padding-bottom: 30%;
-}
-
-#Margin1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgba(234, 166, 54, 255);
-    height: 8vh;
-    border-radius: 10%;
-    color: white;
-    margin-left: 2vw;
-    width: 7vw;
-    margin-top: 30%;
-}
-
-#touts2 {
-    border: 3px solid rgba(234, 166, 54, 255);
-    width: 40vw;
-    padding-bottom: 5%;
-    margin-left: 20%;
-}
-
-#fout {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.btn {
-    text-decoration: none;
-}
-
-.test {
-
-    transition: 0.2s;
-}
-
-.test:hover {
-    color: orange;
-    font-size: 1.1em;
-}
-
-.txtt1 {
-    margin-right: 20%;
-
-}
-
-.txtt2 {
-    margin-left: 50%;
-}
-
-.txtt3 {
-    margin-left: 110%;
-
-}
-
-.txtt4 {
-    margin-left: 160%;
 }
 @media only screen and (max-width: 1024px) {
     #carouselMaterialStyle{

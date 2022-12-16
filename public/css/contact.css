@@ -1,55 +1,66 @@
 @media only screen and (max-width: 375px) {
-footer{
-    width: 171.5vw;
-    
-}
-#inpp2{
-    width: 80vw;
-}
-#btt2{
-    margin-top: 5vh;
-    height: 5vh;
-    width: 25vw;
-}
-#map{
-    width: 120vw;
-}
-}
-@media only screen and (max-width: 425px) {
-    footer{
+    footer {
         width: 171.5vw;
-        
+
     }
-    #inpp2{
+
+    #inpp2 {
         width: 80vw;
     }
-    #btt2{
+
+    #btt2 {
         margin-top: 5vh;
         height: 5vh;
         width: 25vw;
     }
-    #map{
+
+    #map {
         width: 120vw;
     }
+}
+
+@media only screen and (max-width: 425px) {
+    footer {
+        width: 171.5vw;
+
     }
-    @media only screen and (max-width: 768px) {
-       footer{
+
+    #inpp2 {
+        width: 80vw;
+    }
+
+    #btt2 {
+        margin-top: 5vh;
+        height: 5vh;
+        width: 25vw;
+    }
+
+    #map {
+        width: 120vw;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    footer {
         width: 118vw;
-       }
-       #btt2{
+    }
+
+    #btt2 {
         width: 25vw;
         height: 5vh;
-       }
-       #map{
+    }
+
+    #map {
         width: 80vw;
-       }
-        }
+    }
+}
 
 
-        #spanH{
-            text-decoration: none;
-        }
-        #spanH:hover{
-            text-decoration: none;
-            color: orange;
-        }
+#spanH {
+    text-decoration: none;
+}
+
+#spanH:hover {
+    text-decoration: none;
+    color: orange;
+}
