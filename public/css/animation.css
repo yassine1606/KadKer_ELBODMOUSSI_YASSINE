@@ -26,7 +26,8 @@
 }
 
 .nav-link:hover {
-   
+   text-decoration: none;
+   color: orange;
 }
 
 #all11 {
@@ -79,7 +80,9 @@
     padding: 5%;
 }
 
-
+.test1:hover{
+    color: orange;
+}
 
 
 
@@ -354,13 +357,7 @@
     padding-bottom: 5%;
     margin-left: 20%;
 }
-.btn:hover{
-    color: orange;
-    background-color: orange;
-    text-decoration: none;
-    margin-bottom: 3px;
-    transition: 1s;
-}
+  
 #fout{
     display: flex;
     flex-direction: column;
@@ -371,3 +368,11 @@
     text-decoration: none;
 }
 
+.test{
+    
+    transition: 0.2s;
+}
+.test:hover{
+    color: orange;
+    font-size: 1.1em;
+}
