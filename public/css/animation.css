@@ -30,8 +30,7 @@
 }
 
 .nav-link:hover {
-    color: red;
-    background-color: red;
+   
 }
 
 #all11 {
@@ -276,33 +275,40 @@
         margin-left: 70%;
     }
 }
+
 @media only screen and (max-width: 1440px) {
-    body{
-    overflow-x:hidden;
+    body {
+        overflow-x: hidden;
+    }
 }
-}
-#hd1{
+
+#hd1 {
     height: 40vh;
     background-color: gray;
     color: white;
 }
-#dCon{
+
+#dCon {
     margin-top: 5%;
     flex-direction: column;
 }
-#ss1{
+
+#ss1 {
     padding-top: 10vh;
 }
-#inpp1{
+
+#inpp1 {
     margin-top: 1%;
     width: 27vw;
 }
-#inpp2{
+
+#inpp2 {
     height: 25vh;
     margin-top: 1%;
     width: 27vw;
 }
-#btt2{
+
+#btt2 {
     margin-top: 1%;
     height: 7vh;
     width: 10vw;
@@ -313,11 +319,21 @@
     border-radius: 20px;
     border: none;
 }
-#smap{
+
+#smap {
     padding-top: 10vh;
-    
+
 }
-#map{
+
+#map {
     width: 60vw;
     padding-bottom: 10vh;
+}
+
+/*---------------------------------------------------------------------------------*/
+
+
+
+#s2{
+    border: 0;
 }
