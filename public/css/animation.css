@@ -41,16 +41,52 @@
     transform: translateY(-5%);
     transition: 1s;
 }
-
+#divF{
+    position: relative;
+    width: 50%;
+}
+#iiim3{
+    opacity: 1;
+    display: block;
+    transition: 0.5s ease;
+    backface-visibility: hidden;
+}
 #divF:hover {
     background-color: rgba(234, 166, 54, 255);
 
 }
-
+#divF:hover .middle{
+    opacity: 1;
+}
 #divF:hover img {
     filter: brightness(50%);
-}
 
+}
+/*----------*/
+.text {
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+    display: flex;
+    gap: 10px;
+}
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 60%;
+
+    transform: scaleY(-50%, -50%);
+    -ms-transform: scaleY(-50%, -50%);
+    text-align: center;
+}
+.Blogo{
+    color: orange;
+    padding: 10px;
+    border: solid 1px white;
+    border-radius: 50%;
+}
+/**/
 
 
 #dddv2 {
