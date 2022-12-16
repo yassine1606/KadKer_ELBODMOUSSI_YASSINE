@@ -32,3 +32,8 @@ footer{
         width: 120vw;
     }
     }
+    @media only screen and (max-width: 768px) {
+       footer{
+        width: 120vw;
+       }
+        }
