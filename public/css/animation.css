@@ -356,5 +356,14 @@
 }
 .btn:hover{
     color: orange;
-    
+    background-color: orange;
+    text-decoration: none;
+    margin-bottom: 3px;
+    transition: 1s;
+}
+#fout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
