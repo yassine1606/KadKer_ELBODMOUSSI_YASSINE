@@ -367,3 +367,12 @@
     justify-content: center;
     align-items: center;
 }
+.btn{
+    text-decoration: none;
+}
+
+#bttCar{
+    position: static !important;
+    
+    background-color: red;
+}
