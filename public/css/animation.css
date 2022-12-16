@@ -140,14 +140,13 @@
     main {
         width: 171.5vw;
     }
-    #touts2{
-        
-    }
-
-    #s2 {
-        width: 140vw;
-
-    }
+    
+   body{
+    margin: 0;
+   }
+#s2{
+    height: 60vh;
+}
 
     .div2v2 {
         width: 40vw;
