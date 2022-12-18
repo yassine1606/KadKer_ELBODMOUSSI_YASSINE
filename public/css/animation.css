@@ -245,7 +245,7 @@
 
 
 /*----------Tablette-----------------*/
-
+/* 
 @media only screen and (max-width: 768px) {
     header {
         width: 118vw;
@@ -281,10 +281,10 @@
     #bt1 {
         height: 10vh;
     }
-}
+} */
 
 /* Mobile m ------------------*/
-@media only screen and (max-width: 375px) {
+/* @media only screen and (max-width: 375px) {
     
     
 
@@ -358,84 +358,193 @@
     #dInp{
         opacity: 0;
     }
-}
+} */
 
 /* Mobile L ------------------*/
 @media only screen and (max-width: 425px) {
-    header {
-        width: 171.5vw;
+    body{
+        height: 2000vh;
     }
-
+    nav{
+        width: 210vw;
+    }
+    #ct{
+        display: flex;
+        align-items: center;
+    }
+    #ulTest{
+        display: flex;
+        align-items: center;
+    }
+    #dernav{
+        margin-left: 85%;
+    }
+    #t1Mlg{
+        margin-top: 11%;
+    }
     main {
-        width: 171.5vw;
+        width: 210vw;
+        
+        margin-top: 30% ;
 
     }
-
+   #icar{
+    border: none;
+   }
+/* #carouselMaterialStyle{
+    height: 80vh;
+} */
     #s2 {
         opacity: 0;
 
     }
-
-    #sp2 {}
+    #s3{
+        height: 20vh;
+        width: 210vw;
+        padding-bottom: 400vh;
+    }
 
     .div2v2 {
         width: 40vw;
     }
 
     #d3v3 {
-        width: 150vw;
+        flex-direction: column;
 
     }
 
     .div3v3 {
-        width: 150px;
+        width: 180vw;
+        height: 100vh;
+        margin-bottom: 4%;
     }
-
+    #s4{
+        height: 100vh;
+        padding-bottom:300vh ;
+    }
+    .row{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #m2{
+        margin: auto;
+    }
+    #dt{
+        text-align: center;
+        font-size: 30px;
+    }
+   
     #dAbs {
-        margin-left: 56%;
+        margin-left: 76%;
         width: 50vw;
+        margin-top: 60%;
     }
+    /*--------*/
+    #s5{
+        height: 250vh;
+        width: 210vw;
+        padding-bottom: 300vh;
+    }
+    #dGen{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
 
     #divs5 {
-        width: 120vw;
+        width: 180vw;
+        height: 240vh;
+        
     }
 
     #sDivs5 {
-        width: 100vw;
+        width: 130vw;
+       
     }
-
+    #s6{
+        height: 250vh;
+        padding-bottom: 200vh;
+    }
+    #dtotal{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #d2img{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    #dtt{
+        text-align: center;
+        font-size: 30px;
+    }
     #divF {
-        width: 35vw;
+        width: 125vw;
+        height: 60vh;
+        margin-bottom: 30%;
     }
 
     #ddi1 img {
-        width: 40vw;
-        height: 40vh;
+        width: 100vw;
+        height: 70vh;
+        margin-left: 5%;
     }
 
     #ddi2 img {
-        width: 40vw;
-        height: 40vh;
+        width: 100vw;
+        height: 70vh;
     }
 
     #dAbs1 {
-        margin-left: 30%;
+        opacity: 0;
     }
 
     #all11 {
-        width: 120vw;
+        width: 170vw;
+    }
+    #ddd1{
+        font-size: 40px;
+    }
+    #dddv1{
+        width: 180vw;
+    }
+    .iz{
+        width: 160vw;
+        margin-left: 3%;
+    }
+    #dvd1 ul{
+        font-size: 20px;
+        text-align: center;
     }
 
     #ddd2 {
         margin: auto;
+        flex-direction: column;
     }
-
+    #carouselExampleControls{
+        margin-left: 30%;
+    }
+    #fca{
+        margin-left: 60%;
+    }
+#d22v1{
+    width: 70vw;
+    margin-left: 20%;
+}
+#d22v2{
+    text-align: center;
+    margin-left: 30%;
+}
     #dInp {
         opacity: 0;
     }
 }
 
-@media only screen and (max-width: 1440px) {
+/* @media only screen and (max-width: 1440px) {
     body {
         overflow-x: hidden;
     }
@@ -457,4 +566,4 @@
     #btt2{
         height: 60px;
     }
-}
+} */
