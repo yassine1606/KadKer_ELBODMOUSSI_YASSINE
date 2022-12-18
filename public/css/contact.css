@@ -1,4 +1,4 @@
-@media only screen and (max-width: 375px) {
+/* @media only screen and (max-width: 375px) {
     footer {
         width: 171.5vw;
 
@@ -17,30 +17,49 @@
     #map {
         width: 120vw;
     }
-}
+} */
 
 @media only screen and (max-width: 425px) {
+   body{
+    height: 100vh;
+   }
+    header{
+        width: 220%;
+    }
+    #ss1{
+        margin-left: 7%;
+    }
+    input{
+        width: 80vw;
+    }
     footer {
-        width: 171.5vw;
+        width: 220%;
 
     }
-
-    #inpp2 {
+    #inpp1{
         width: 80vw;
+    }
+    #inpp2 {
+        margin-top: 5vh;
+        height: 50vh;
+        width: 150vw;
     }
 
     #btt2 {
         margin-top: 5vh;
-        height: 5vh;
-        width: 25vw;
+        height: 15vh;
+        width: 45vw;
     }
-
+    p{
+        font-size: 25px;
+    }
     #map {
-        width: 120vw;
+        width: 180vw;
+        margin-left: 7%;
     }
 }
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
     footer {
         width: 118vw;
     }
@@ -53,14 +72,14 @@
     #map {
         width: 80vw;
     }
-}
+} */
 
 
-#spanH {
+/* #spanH {
     text-decoration: none;
 }
 
 #spanH:hover {
     text-decoration: none;
     color: orange;
-}
+} */

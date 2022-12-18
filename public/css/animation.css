@@ -12,6 +12,7 @@
     width: 80;
 }
 
+
 #d22v1 {
     background-color: rgba(234, 166, 54, 255);
     height: 25vh;
@@ -174,7 +175,7 @@
 /*-----------------Derniere section ----------------------------------------------------------------*/
 #s2 {
     border: 0;
-    padding-bottom: 30%;
+    padding-bottom: 50%;
 }
 
 #Margin1 {
@@ -186,15 +187,15 @@
     border-radius: 10%;
     color: white;
     margin-left: 2vw;
-    width: 7vw;
-    margin-top: 30%;
+    width: 15vw; 
+    
 }
 
 #touts2 {
     border: 3px solid rgba(234, 166, 54, 255);
-    width: 40vw;
+    width: 100%;
     padding-bottom: 5%;
-    margin-left: 20%;
+    padding-top: 3%;
 }
 
 #fout {
@@ -218,23 +219,6 @@
     font-size: 1.1em;
 }
 
-.txtt1 {
-    margin-right: 20%;
-
-}
-
-.txtt2 {
-    margin-left: 50%;
-}
-
-.txtt3 {
-    margin-left: 110%;
-
-}
-
-.txtt4 {
-    margin-left: 160%;
-}
 
 
 
@@ -379,13 +363,10 @@
     #dernav{
         margin-left: 85%;
     }
-    #t1Mlg{
-        margin-top: 11%;
-    }
     main {
         width: 210vw;
         
-        margin-top: 30% ;
+        margin-top: 20% ;
 
     }
    #icar{
@@ -394,10 +375,7 @@
 /* #carouselMaterialStyle{
     height: 80vh;
 } */
-    #s2 {
-        opacity: 0;
-
-    }
+    
     #s3{
         height: 20vh;
         width: 210vw;
@@ -461,7 +439,6 @@
 
     #sDivs5 {
         width: 130vw;
-       
     }
     #s6{
         height: 250vh;
@@ -541,6 +518,20 @@
 }
     #dInp {
         opacity: 0;
+    }
+    #touts2{
+        width: 150%;
+        margin-left: 40%;
+        margin-bottom: 30%;
+    }
+    #Margin1{
+        width: 80vw;
+        margin-bottom: 1%;
+    }
+    #profil{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }
 
